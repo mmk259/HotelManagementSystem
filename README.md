@@ -1,4 +1,4 @@
 # HotelManagementSystem
 --------------
 Language: Java 
-Project of Object Oriented Programming
+Course: Object Oriented Programming (OOP)
